@@ -1,0 +1,54 @@
+---
+import '../styles/global.css'
+import characters from '../data.json'
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />		
+		<title>Ninjago cards</title>
+	</head>
+	<body>
+		<main>
+			<section class="a4">
+				{characters.map(character => (
+					<div class="card">
+						<div class="header">
+							<div class="category" data-category={character.category}>
+							</div>
+							<h3 class="name">{character.name}</h3>
+						</div>
+						<img class="image" src="{character.image}" onerror="this.onerror=null;this.src='src/images/NINJAGO_-_S14_preview_2300.jpg'"  />
+
+						<div class="properties_list_container">
+							<img src="src/images/NINJAGO_-_S14_preview_2300.jpg" alt="background image with main characters" class="properties_list_background">
+							<ul class="properties_list">
+								<li class="age">
+									<p><span class="property">Age : </span>{character.age}</p>
+								</li>
+								<li class="strength">
+									<p><span class="property">Force : </span>{character.strength}/100</p>
+								</li>
+								<li class="intelligence">
+									<p><span class="property">Intelligence : </span>{character.intelligence}/100</p>
+								</li>
+								<li class="courage">
+									<p><span class="property">Courage : </span>{character.courage}/100</p>
+								</li>
+							</ul>
+						</div>
+						<p class="bio">
+							{character.bio}
+						</p>
+					</div>
+				))}
+			</section>
+			<section class="a4">
+
+			</section>
+		</main>
+	</body>
+</html>

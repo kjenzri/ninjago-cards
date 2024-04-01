@@ -1,0 +1,253 @@
+[
+    {
+      "name": "Kai",
+      "image": "kai.jpg",
+      "age": 20,
+      "strength": 90,
+      "intelligence": 70,
+      "courage": 80,
+      "bio": "Kai est le ninja du feu, ardent et impétueux. Il est connu pour son courage et sa détermination.",
+      "category": "red"
+    },
+    {
+      "name": "Lloyd",
+      "image": "lloyd.jpg",
+      "age": 18,
+      "strength": 85,
+      "intelligence": 85,
+      "courage": 75,
+      "bio": "Lloyd est le Ninja Vert et le leader de l'équipe. Il possède une grande sagesse et puissance.",
+      "category": "green"
+    },
+    {
+      "name": "Jay",
+      "image": "jay.jpg",
+      "age": 19,
+      "strength": 85,
+      "intelligence": 80,
+      "courage": 80,
+      "bio": "Jay est le ninja de la foudre, vif d'esprit et plein d'énergie. Son intelligence et son courage sont remarquables.",
+      "category": "yellow"
+    },
+    {
+      "name": "Sensei Wu",
+      "image": "senseiwu.jpg",
+      "age": 65,
+      "strength": 70,
+      "intelligence": 90,
+      "courage": 80,
+      "bio": "Sensei Wu est le maître des ninjas. Sa sagesse et son expérience sont inestimables pour l'équipe.",
+      "category": "yellow"
+    },
+    {
+      "name": "Harumi",
+      "image": "harumi.jpg",
+      "age": 23,
+      "strength": 80,
+      "intelligence": 85,
+      "courage": 75,
+      "bio": "Harumi est une ancienne princesse du royaume de Ninjago. Son intelligence et sa bravoure l'ont aidée à devenir une guerrière redoutable.",
+      "category": "red"
+    },
+    {
+      "name": "Claire",
+      "image": "claire.jpg",
+      "age": 20,
+      "strength": 75,
+      "intelligence": 85,
+      "courage": 70,
+      "bio": "Claire est une guerrière intrépide qui a rejoint les ninjas dans leur combat contre le mal. Son courage est inébranlable.",
+      "category": "red"
+    },
+    {
+      "name": "Scott",
+      "image": "scott.jpg",
+      "age": 25,
+      "strength": 80,
+      "intelligence": 75,
+      "courage": 75,
+      "bio": "Scott est un aventurier courageux qui a décidé de se battre aux côtés des ninjas contre les forces obscures.",
+      "category": "red"
+    },
+    {
+      "name": "Faith",
+      "image": "faith.jpg",
+      "age": 23,
+      "strength": 75,
+      "intelligence": 85,
+      "courage": 70,
+      "bio": "Faith est une maître de l'art martial qui a juré de protéger les innocents contre le mal. Sa détermination est inébranlable.",
+      "category": "red"
+    },
+    {
+      "name": "Cole",
+      "image": "cole.jpg",
+      "age": 21,
+      "strength": 95,
+      "intelligence": 75,
+      "courage": 85,
+      "bio": "Cole est le ninja de la terre, robuste et solide comme un roc. Son courage est inébranlable.",
+      "category": "red"
+    },
+    {
+      "name": "Zane",
+      "image": "zane.jpg",
+      "age": 19,
+      "strength": 80,
+      "intelligence": 95,
+      "courage": 70,
+      "bio": "Zane est le ninja de la glace, calme et réservé. Sa grande intelligence est un atout précieux dans les batailles.",
+      "category": "red"
+    },
+    {
+      "name": "Nya",
+      "image": "nya.jpg",
+      "age": 18,
+      "strength": 80,
+      "intelligence": 85,
+      "courage": 75,
+      "bio": "Nya est la sœur de Kai et la ninja de l'eau. Elle est aussi courageuse que déterminée.",
+      "category": "green"
+    },
+    {
+      "name": "Garmadon",
+      "image": "garmadon.jpg",
+      "age": 50,
+      "strength": 85,
+      "intelligence": 90,
+      "courage": 75,
+      "bio": "Garmadon est le frère de Sensei Wu et un ninja talentueux. Son intelligence et sa ruse sont redoutables.",
+      "category": "green"
+    },
+    {
+      "name": "Misako",
+      "image": "misako.jpg",
+      "age": 42,
+      "strength": 75,
+      "intelligence": 85,
+      "courage": 75,
+      "bio": "Misako est une archéologue renommée et la mère de Lloyd. Son intelligence et son courage sont admirables.",
+      "category": "yellow"
+    },
+    {
+      "name": "Dareth",
+      "image": "dareth.jpg",
+      "age": 35,
+      "strength": 80,
+      "intelligence": 70,
+      "courage": 75,
+      "bio": "Dareth est un maître en arts martiaux et un grand fan des ninjas. Son courage est à la hauteur de sa passion.",
+      "category": "yellow"
+    },
+    {
+      "name": "Griffin Turner",
+      "image": "griffinturner.jpg",
+      "age": 25,
+      "strength": 80,
+      "intelligence": 70,
+      "courage": 85,
+      "bio": "Griffin Turner est un ninja qui maîtrise le pouvoir de la vitesse. Son courage et sa détermination sont sans égal.",
+      "category": "yellow"
+    },
+    {
+      "name": "Neuro",
+      "image": "neuro.jpg",
+      "age": 33,
+      "strength": 85,
+      "intelligence": 90,
+      "courage": 75,
+      "bio": "Neuro est un inventeur de génie et un allié précieux pour les ninjas. Son intelligence est sa plus grande arme.",
+      "category": "yellow"
+    },
+    {
+      "name": "Garmadon Junior",
+      "image": "garmadon_junior.jpg",
+      "age": 15,
+      "strength": 85,
+      "intelligence": 80,
+      "courage": 75,
+      "bio": "Garmadon Junior est le fils de Garmadon, qui a choisi de suivre les pas des ninjas dans leur lutte contre les ténèbres.",
+      "category": "red"
+    },
+    {
+      "name": "Soul Archer",
+      "image": "soularcher.jpg",
+      "age": 32,
+      "strength": 85,
+      "intelligence": 75,
+      "courage": 75,
+      "bio": "Soul Archer est un archer habile et redoutable qui fait partie des forces obscures. Sa précision est légendaire.",
+      "category": "red"
+    },
+    {
+      "name": "Crux",
+      "image": "crux.jpg",
+      "age": 60,
+      "strength": 80,
+      "intelligence": 85,
+      "courage": 70,
+      "bio": "Crux est un maître de la ruse et de la manipulation. Son intelligence et sa sagesse font de lui un ennemi redoutable.",
+      "category": "red"
+    },
+    {
+      "name": "Fangtom",
+      "image": "fangtom.jpg",
+      "age": 34,
+      "strength": 85,
+      "intelligence": 70,
+      "courage": 70,
+      "bio": "Fangtom est un guerrier Serpentine redoutable qui possède une mâchoire puissante et des réflexes rapides.",
+      "category": "red"
+    },
+    {
+      "name": "Bytar",
+      "image": "bytar.jpg",
+      "age": 28,
+      "strength": 90,
+      "intelligence": 60,
+      "courage": 70,
+      "bio": "Bytar est un guerrier Serpentine féroce qui possède une force incroyable. Son courage est à toute épreuve.",
+      "category": "green"
+    },
+    {
+      "name": "Skalidor",
+      "image": "skalidor.jpg",
+      "age": 36,
+      "strength": 95,
+      "intelligence": 65,
+      "courage": 75,
+      "bio": "Skalidor est un guerrier Serpentine massif et puissant. Sa force est inégalée dans les batailles.",
+      "category": "yellow"
+    },
+    {
+      "name": "Aspheera",
+      "image": "aspheera.jpg",
+      "age": 40,
+      "strength": 90,
+      "intelligence": 80,
+      "courage": 70,
+      "bio": "Aspheera est une puissante sorcière qui cherche à conquérir Ninjago. Sa magie redoutable est une menace pour les ninjas.",
+      "category": "red"
+    },
+    {
+      "name": "Benthomaar",
+      "image": "benthomaar.jpg",
+      "age": 30,
+      "strength": 85,
+      "intelligence": 75,
+      "courage": 80,
+      "bio": "Benthomaar est un guerrier de la tribu de la mer. Son courage et sa loyauté envers ses amis sont inégalés.",
+      "category": "green"
+    },
+    {
+      "name": "Cole Junior",
+      "image": "colejunior.jpg",
+      "age": 13,
+      "strength": 75,
+      "intelligence": 70,
+      "courage": 65,
+      "bio": "Cole Junior est le fils de Cole, qui suit les traces de son père en tant que futur ninja. Son courage et sa détermination sont impressionnants.",
+      "category": "yellow"
+    }
+  ]
+  
