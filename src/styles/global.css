@@ -135,7 +135,7 @@ ul{
     width: calc(var(--card-width) - var(--card-border) * 2 + 0.01cm);
     height: var(--card-image-height);
     object-fit: cover;
-    object-position: 50% 20%;
+    object-position: 50% 10%;
     
 }
 

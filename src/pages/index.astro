@@ -75,10 +75,6 @@ for (let i = 0; i < characters.length; i += numberOfCardsByPage) {
               </div>
             ))}
           </section>
-        ))
-      }
-      {
-        charactersByPage.map((characters) => (
           <section class="a4">
             {characters.map((character) => (
               <div class="card-reverse">                
@@ -92,6 +88,7 @@ for (let i = 0; i < characters.length; i += numberOfCardsByPage) {
           </section>
         ))
       }
+      
     </main>
   </body>
 </html>
