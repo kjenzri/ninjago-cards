@@ -16,6 +16,7 @@
     --card-category-border: 0.05cm;
     --card-category-green: radial-gradient(circle, #0f8740, #117534, #106328, #0d521d, #094213);
     --card-category-yellow: radial-gradient(circle, #d1fb08, #b4d805, #98b702, #7d9601, #637700);
+    --card-category-orange: radial-gradient(circle, #ff9017, #ff820a, #ff7201, #ff6100, #ff4d00);
     --card-category-red: radial-gradient(circle, #fb0808, #d80408, #b70107, #960005, #770000);
     --card-width: 6.5cm;
     --card-heigth: 9.5cm;
@@ -113,6 +114,10 @@ ul{
 
 .category[data-category="yellow"]{
     background-image: var(--card-category-yellow);
+}
+
+.category[data-category="orange"]{
+    background-image: var(--card-category-orange);
 }
 
 .category[data-category="red"]{
