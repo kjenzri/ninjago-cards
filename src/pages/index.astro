@@ -2,7 +2,7 @@
 import "../styles/global.css";
 import characters from "../data.json";
 
-const numberOfCardsByPage = 9;
+const numberOfCardsByPage = 6;
 const charactersByPage = [];
 for (let i = 0; i < characters.length; i += numberOfCardsByPage) {
   const chunk = characters.slice(i, i + numberOfCardsByPage);

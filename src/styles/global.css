@@ -63,12 +63,13 @@ ul{
   width: var(--a4-width);
   height: var(--a4-heigth);
   margin: 1rem;
-  padding: 0.2cm;
+  padding: 0.1cm;
   
   display: flex;
   flex-wrap: wrap;
   gap: 0.25cm;
-  justify-content: space-around;
+  justify-content: center;
+  align-items: center;
 
   border: var(--a4-border) solid var(--a4-border-color);
 
